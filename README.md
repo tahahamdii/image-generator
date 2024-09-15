@@ -243,4 +243,4 @@ Troubleshooting
 Contact
 -------
 
-For any questions or issues, please open an issue in the repository or contact me hamdi.taha@esprit.tn or you check my website tahtah.tech
+For any questions or issues, please open an issue in the repository or contact me hamdi.taha@esprit.tn or you check my website https://tahtah.tech
