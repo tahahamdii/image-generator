@@ -13,8 +13,5 @@ public class OpenaiApplication {
 	}
 
 
-	@Bean
-	public Dotenv dotenv() {
-		return Dotenv.load();
-	}
+
 }
