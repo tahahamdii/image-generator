@@ -24,7 +24,7 @@ public class ChatService {
                 new Prompt(
                         prompt,
                         OpenAiChatOptions.builder()
-                                .withModel("gpt-3.5-turbo")
+                                .withModel("gpt-4o")
                                 .withTemperature(0.4F)
                                 .build())
                 ));
