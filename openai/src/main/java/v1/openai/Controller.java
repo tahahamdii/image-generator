@@ -19,4 +19,8 @@ public class Controller {
     public String getResponse(@RequestParam String prompt){
         return chatService.getResponse(prompt);
     }
+    @GetMapping("/query2")
+    public String getResponse2(@RequestParam String prompt){
+        return chatService.getResponseOptions(prompt);
+    }
 }
